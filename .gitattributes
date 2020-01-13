@@ -1,2 +1,1 @@
-*.go linguist-language=Go
-*.ps1 linguist-language=Powershell
+*.ps1 linguist-vendored
